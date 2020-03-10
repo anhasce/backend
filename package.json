@@ -19,10 +19,12 @@
   "homepage": "https://github.com/anhasce/backend#readme",
   "devDependencies": {
     "@types/express": "^4.17.3",
+    "@types/jsonwebtoken": "^8.3.8",
     "tslint": "^6.0.0",
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
   }
 }
